@@ -1,7 +1,7 @@
 # UK Housing Market Analysis
 A personal project using Python Pandas dataframes, Altair chart plotting and Streamlit to create an interactive tool to explore UK housing market data.
 
-![alt text](https://github.com/WorcestershireSource/housingAnalysis/tree/master/static/screenshot.jpeg?raw=true)
+![Figure 1](https://github.com/WorcestershireSource/housingAnalysis/tree/master/static/screenshot.jpeg?raw=true)
 
 ## Limitations
 Date ranges covered by data sets are inconsistent.
@@ -18,9 +18,12 @@ International comparisons
 
 ## Data sources
 House price data from the HM Land Revenue House Price Index: https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-august-2022?utm_medium=GOV.UK&utm_source=summary&utm_campaign=UK_HPI_Summary&utm_term=9.30_19_10_22&utm_content=download_data
-        Info about the HPI: https://www.gov.uk/government/publications/about-the-uk-house-price-index/about-the-uk-house-price-index#data-tables 
+
 BoE bank rate info available from: https://www.bankofengland.co.uk/boeapps/database/Bank-Rate.asp
+
 Inflation data: https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/l55o/mm23
+
 UK population estimates: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland
+
 UK housing stock: https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/dwellingstockbytenureuk
 
