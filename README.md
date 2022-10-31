@@ -1,7 +1,7 @@
 # UK Housing Market Analysis
 A personal project using Python Pandas dataframes, Altair chart plotting and Streamlit to create an interactive tool to explore UK housing market data.
 
-![alt text](https://github.com/WorcestershireSource/housingAnalysis/tree/master/static/screenshot.jpeg)
+![alt text](https://github.com/WorcestershireSource/housingAnalysis/tree/master/static/screenshot.jpeg?raw=true)
 
 ## Limitations
 Date ranges covered by data sets are inconsistent.
