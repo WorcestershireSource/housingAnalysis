@@ -72,9 +72,9 @@ st.write("""
 
     ### Key points:
     - House prices have followed a long upward trend. This appears to be driven by the availability of cheap credit, movement within the UK and a trend toward smaller households. 
-    - Smaller households could be a result of an aging population and a cultural shift away from multi-generational families. 
+    - Smaller households could be a result of an aging population and a long-term shift away from multi-generation family households. 
     - There are strong regional disparities in prices. 
-    - While the UK population has grown, the number of dwellings has kept pace with this chnage, although data does not show changes in sizes of dwellings. 
+    - While the UK population has grown, the number of dwellings has kept pace with this chnage, although data does not show changes in sizes of dwellings or sub-national regions. 
 """)
 
 
